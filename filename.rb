@@ -1,3 +1,1 @@
 puts "Hello!"
-
-puts "Goodbye"
